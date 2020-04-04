@@ -1,4 +1,4 @@
-package com.hz.danymicproxy;
+package com.hz.dynamicproxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
